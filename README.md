@@ -22,3 +22,15 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+- 概要
+- コンセプト
+- バージョン
+- 機能一覧
+- テーブル定義
+   (googleスプレッドシートなどに記載して、urlを項目内に貼り付け)
+- 画面遷移図
+  (googleスプレッドシートなどに記載して、urlを項目内に貼り付け)
+- 画面ワイヤーフレーム
+  cacoo(https://cacoo.com/ja/)を使用して作成していただきます。詳しくは後述の「ワイヤーフレームについて」をご一読ください。
+  (googleスプレッドシートなどに記載して、urlを項目内に貼り付け)
+- 使用予定Gem
