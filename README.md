@@ -1,3 +1,4 @@
+
 # README for StandbyC
 
 ## 概要
@@ -29,7 +30,9 @@ https://docs.google.com/spreadsheets/d/1yPL7NxZ9qy-1ni6ZkCXEjcX1tzXUJpc6-f-z1fgE
 - fa
 - fa
 
-## その他
+***
+
+## 合格条件
 - scaffoldは使用しないこと
 - カタログ設計の内容をコメント欄に投稿した後、実際のポートフォリオを提出すること。
 - 今までの課題で作成してきたアプリケーション以上のクオリティであること
@@ -41,3 +44,5 @@ https://docs.google.com/spreadsheets/d/1yPL7NxZ9qy-1ni6ZkCXEjcX1tzXUJpc6-f-z1fgE
 - エラーページの実装(500エラー・404エラー)
 - シードデータを入れておくこと(20 ~ 30件ほど)
 - 要件定義(README.md)で提出したワイヤーフレーム通りに作成されていること。
+
+## 下書き
