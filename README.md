@@ -13,7 +13,7 @@ Ruby 2.3.1 Rails 5.1.6
 ## 機能一覧
 
 ## カタログ設計
-https://drive.google.com/open?id=1QYfXhe0ByTF7E_ZKF2385lGuwly0JJN6
+https://drive.google.com/file/d/1gHECMbGCcR-5VwBe3T_WmUUCROSrBEDF/view?usp=sharing
 
 ## テーブル定義
    (googleスプレッドシートなどに記載して、urlを項目内に貼り付け)
