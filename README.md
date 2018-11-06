@@ -17,6 +17,7 @@ https://drive.google.com/file/d/1gHECMbGCcR-5VwBe3T_WmUUCROSrBEDF/view?usp=shari
 
 ## テーブル定義
    (googleスプレッドシートなどに記載して、urlを項目内に貼り付け)
+https://drive.google.com/open?id=1gHECMbGCcR-5VwBe3T_WmUUCROSrBEDF
 
 ## 画面遷移図
   (googleスプレッドシートなどに記載して、urlを項目内に貼り付け)
