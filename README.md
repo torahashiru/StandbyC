@@ -16,10 +16,10 @@ Ruby 2.3.1 Rails 5.1.6
 https://drive.google.com/file/d/1gHECMbGCcR-5VwBe3T_WmUUCROSrBEDF/view?usp=sharing
 
 ## テーブル定義
-https://drive.google.com/open?id=1iVJKidKcdVB2iF8WI-MyS4yVoP7Rxm88
+https://drive.google.com/open?id=1ASIpJiG0JVG-eAWAw2N6Q8Gnr77TqkAZ
 
 ## 画面遷移図
-  (googleスプレッドシートなどに記載して、urlを項目内に貼り付け)
+(googleスプレッドシートなどに記載して、urlを項目内に貼り付け)
 
 ## 画面ワイヤーフレーム
   cacoo(https://cacoo.com/ja/)を使用して作成していただきます。詳しくは後述の「ワイヤーフレームについて」をご一読ください。
